@@ -1,0 +1,16 @@
+# Procesamiento de Imágenes y Visión por Computador
+opencv-contrib-python>=4.5.0  # para tener acceso a todos los descriptores (SIFT, SURF, etc.)
+
+# Operaciones numéricas y matrices
+numpy>=1.20.0
+
+# Visualización de imágenes, gráficas y correspondencias (matches)
+matplotlib>=3.3.0
+
+# Para ejecutar los Notebooks (.ipynb)
+jupyter>=1.0.0
+notebook>=6.0.0
+
+# Útil para optimizaciones matemáticas avanzadas o 'bundle adjustment'
+scipy>=1.6.0
+pandas>=1.2.0
