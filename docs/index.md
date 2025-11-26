@@ -104,7 +104,7 @@ Se realizaron mediciones sobre el panorama final.
 
 | Objeto | Medida Real (GT) | Medida Estimada | Error Absoluto |
 |:-------|:----------------:|:---------------:|:--------------:|
-| Mesa (Ancho) | 161.1 cm [cite: 14] | *161.10 cm* (Calib) | 0.00 cm |
+| Mesa (Ancho) | 161.1 cm | *161.10 cm* (Calib) | 0.00 cm |
 | Silla (Respaldo) | N/A | 50.96 cm | N/A |
 | Ventana (Ancho) | N/A | 77.37 cm | N/A |
 | Planta/Maceta (Altura) | N/A | 21.72 cm | N/A |
