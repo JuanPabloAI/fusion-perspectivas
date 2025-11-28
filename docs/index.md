@@ -145,7 +145,7 @@ Esto se debe a que la homografía es una transformación planar. La relación de
 
 ---
 
-## 8. Contribución Individual [cite: 117]
+## 8. Contribución Individual
 
 * **Juan Pablo Palacio Pérez:** Desarrollo del núcleo del pipeline de registro (estimación de Homografía, RANSAC y Blending) y ejecución de la validación cruzada con imágenes sintéticas.
 * **David Giraldo Valencia:** Implementación del módulo de medición métrica (`measurement.py`), desarrollo de la herramienta de calibración interactiva y estructura general de la documentación.
